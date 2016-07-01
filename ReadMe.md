@@ -21,4 +21,6 @@ php -q server.php
 4. Using browser, navigate to index.php location to open chat page, have fun!
 
 Follow my [Tutorial](https://gist.github.com/teocci/5f4230fb5314129baefce4d33c86f7df)
+
+
 [MIT License](http://opensource.org/licenses/MIT)
