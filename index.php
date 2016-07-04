@@ -30,7 +30,7 @@
 </div>
 <div class="footer">
     <p>
-        <a href="https://www.github.com/teocci/LICENSE">MIT License</a>
+        <a href="https://raw.githubusercontent.com/teocci/ChatSocket/master/LICENSE">MIT License</a>
         Copyright &copy; 2016
         <a target="_blank" href="mailto:teocci@daum.net">Jorge Frisancho (teocci)</a>
         <a target="_blank" href="https://github.com/teocci">Github</a>
