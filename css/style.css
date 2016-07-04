@@ -20,6 +20,11 @@ h2, h3 {
     margin-right: auto;
     margin-left: auto;
 }
+.footer {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .chat_wrapper {
     width: 600px;
     margin-right: auto;
